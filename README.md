@@ -1,2 +1,6 @@
 # Salary Prediction Model
 This was a project done as part of our internship during First year. It is a simple model for employee salary prediction based on age provided. We built it using **Python language** in **Jupyter Notebook**. We imported the **CSV dataset** containing the employee salary and age data then after cleaning the data, we visualized it using **scatterplot**. We then split the data to train and test data and trained the model using **Linear Regression** to find the best fit line. After testing the model we got a **95.93% accuracy** and deployed the model using **streamlit** library.
+
+Output Screenshots:
+![Age=20](/results/Age_20.png)
+![Age=30](/results/Age_30.png)
